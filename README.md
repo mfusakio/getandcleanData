@@ -1,7 +1,7 @@
 # getandcleanData
 Project for Getting and Cleaning Data
 
-run_Analysis Programe
+run_Analysis Program
 
 Lines 1-7 of Program: Read into the system the X_text, X_train, y_test, y_train, subject files, and activity labels 
 
